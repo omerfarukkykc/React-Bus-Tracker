@@ -1,5 +1,7 @@
 # React-Bus-Tracker
 ![image](https://user-images.githubusercontent.com/54690370/196819505-6a4a2e00-d892-4dda-8164-4a0223309f43.png)
+![image](https://user-images.githubusercontent.com/54690370/196819562-ec8f605b-3291-4ae0-abc2-0ef28a94e07d.png)
+
 Şekilde gösterilen rotada 1 numaralı duraktan 2 numaralı durağa giden 2.5 ₺ ile ücretlendirilirken eğer yolcu 1 numaralı duraktan 3 numaralı durağa kadar giderse 3.2 ₺ ile ücretlendirilecektir. Bu sayede yolcular gittikleri yol kadar ödeme yapacaklardır.
 
 Projenin neredeyse en önemli aşaması mobil uygulamanın geliştirilmesidir. Mobil uygulama daha önce anlatılan web servis ile iki yönlü haberleşecektir. Yani yolcular hem toplu taşımanın mevcut durumunu izleyecek hem de izin verilen ölçekte uygulamanın daha doğru sonuçlar elde etmesi için veri tabanına veri gönderecektir. Bu veriler sadece kullanıcı uygulamayı kullandığı sırada alınacaktır. Elde edilen veriler durak yoğunluklarını yolculara göstermek için kullanılacaktır. Web servisten alından veriler uygulamaya kazandırılması hedeflenen özellikliler: 
